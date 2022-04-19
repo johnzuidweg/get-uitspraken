@@ -2,7 +2,7 @@
 import requests, pickle, telegram, json
 
 URL = "https://uitspraken.rechtspraak.nl/api/zoek"
-PICKLE_FILE =  "uitspraken-pickle.bin"
+PICKLE_FILE = "uitspraken-pickle.bin"
 
 # Telegram
 #BOT = telegram.Bot('')
