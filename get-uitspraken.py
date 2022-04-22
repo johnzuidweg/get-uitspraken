@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 import requests, pickle, telegram, json
+# install telegram with pip3 install python-telegram-bot
 
 URL = "https://uitspraken.rechtspraak.nl/api/zoek"
 PICKLE_FILE = "uitspraken-pickle.bin"
